@@ -1,3 +1,4 @@
+![logo](https://github.com/Deepak-Mahanta/Deepak-Mahanta/blob/main/Black%20White%20Simple%20Daily%20Reminder%20Twitter%20Header%20(1).png)
 <h1 align="center">Hi 👋, I'm Deepak Kumar 🥷</h1>
 <h3 align="center">A passionate frontend developer, Constantly learning and exploring new technologies to stay ahead in this ever-evolving field.🚀</h3>
 
