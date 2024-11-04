@@ -42,7 +42,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Deepak-Mahanta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Deepak-Mahanta&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-mahanta&theme=algolia&layout=compact&langs_count=8" alt="deepak-mahanta" />
+<!--  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-mahanta&theme=algolia&layout=compact&langs_count=8" alt="deepak-mahanta" /> -->
 </p>
 
 
