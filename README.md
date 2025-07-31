@@ -24,7 +24,7 @@ Feel free to **fork, star, and contribute** to my repositories. Let's build some
 
 <p align="left">
 <a href="https://twitter.com/DeepakMahanta_"><img src="https://img.shields.io/badge/-Deepak%20Ku.%20Mahanta-0077B5?style=flat&logo=X&logoColor=white"/></a>
-<a href="https://linkedin.com/in/contactdeepk"><img src="https://img.shields.io/badge/-Deepak%20Ku.%20Mahanta-BD081C?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/deepak-mahanta"><img src="https://img.shields.io/badge/-Deepak%20Ku.%20Mahanta-BD081C?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
